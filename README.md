@@ -1,28 +1,27 @@
-# NLP Preprocessing Engine 
+# NLP Tasks Repository
 
-This repository contains NLP tasks
+This repository contains my work on Natural Language Processing (NLP) tasks, focusing on building clean, modular, and practical text processing pipelines.
 
-## Objective
+---
 
-To build a robust NLP preprocessing pipeline including:
+## Tasks
 
-* Text cleaning
-* Tokenization
-* Stopword removal
-* Lemmatization
-* Advanced preprocessing techniques
+- Task 1: NLP Preprocessing Engine >> [View Notebook](./Task_1_NLP_Preprocessing/NLP_Preprocessing_Engine.ipynb)
 
-## Status
+---
 
-Work in Progress - Initial setup completed.
+## Tools & Technologies
+- Python
+- Jupyter Notebook / Google Colab / VS Code
+- Regular Expressions (re)
+- Collections (Counter)
 
-## Tech Stack
+---
 
-* Python
-* NLTK
-* spaCy
-* Google Colab
+## Future Improvements
+- Integration with NLP libraries like NLTK or spaCy
+- Lemmatization and stopword handling
 
-## Author
+---
 
-Urvish Ahir
+**Author:** Urvish Ahir
