@@ -9,7 +9,7 @@ This repository contains my work on Gen AI tasks.
 - Task 1: NLP Preprocessing Engine >> [View Notebook](./Task_1_NLP_Preprocessing/NLP_Preprocessing_Engine.ipynb)
 - Task 2: Sentiment Analysis >> [View Notebook](./Task_2_Sentiment_Analysis/)
 - Task 3: Chatbot Transformers >> [View Notebook](./Task_3_Chatbot_Transformers/)
-- Task 4: BERT Fine-Tuning for Text Classification >> [View Notebook](./Task_4_BERT_Fine_Tuning/)
+- Task 4: BERT Fine-Tuning for Text Classification >> [View Notebook](./Task_4_BERT_Fine_Tuning/bert_finetuning_imdb.ipynb)
 
 ---
 
