@@ -1,6 +1,7 @@
-# NLP Tasks Repository
+# NLP Tasks
 
-This repository contains my work on Natural Language Processing (NLP) tasks, focusing on building clean, modular, and practical text processing pipelines.
+This repository contains a collection of tasks and projects focused on Python, data processing, and Natural Language Processing (NLP).
+All implementations are written with clean, structured, and well-documented code.
 
 ---
 
